@@ -4,7 +4,7 @@
 
 I'm Director of Product at Reveleer. I lead products where being wrong has a real cost, and I run our India GCC product practice: 5 PMs working follow-the-sun across three time zones.
 
-I build Claude Code skills, commands and agents to automate my own PM work, and I share them here.
+I build and curate Claude Code skills, commands and agents to automate my own PM work, and I share them here.
 
 ### Start here
 
